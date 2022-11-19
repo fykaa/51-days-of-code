@@ -1,6 +1,6 @@
 @media screen and (max-width: 800px) {
     .community {
         /* width: 50%; The width is 100%, when the viewport is 800px or smaller */
-        grid-template-columns: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(5, minmax(0, 1fr));
     }
 }
